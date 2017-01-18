@@ -12,7 +12,7 @@ Issue tracking (including feature requests) with labels, milestones, assignees a
 Pull requests with code review and comments.
 Graphs: pulse, contributors, commits, code frequency, punch card, network, members.
 Email notifications.
-Option to subscribe someone to notifications by @ mentioning them.[14]
+Option to subscribe someone to notifications by mentioning them.
 Emojis
 Visualization of geospatial data
 
