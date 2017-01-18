@@ -7,14 +7,14 @@ GitHub is mostly used for code.
 
 In addition to source code, GitHub supports the following formats and features:
 
-Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README files on GitHub)
-Issue tracking (including feature requests) with labels, milestones, assignees and a search engine.
-Pull requests with code review and comments.
-Graphs: pulse, contributors, commits, code frequency, punch card, network, members.
-Email notifications.
-Option to subscribe someone to notifications by mentioning them.
-Emojis
-Visualization of geospatial data
+Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README files on GitHub),
+Issue tracking (including feature requests) with labels, milestones, assignees and a search engine,
+Pull requests with code review and comments,
+Graphs: pulse, contributors, commits, code frequency, punch card, network, members,
+Email notifications,
+Option to subscribe someone to notifications by mentioning them,
+Emojis,
+Visualization of geospatial data.
 
 ## GitHub Enterprise
 GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate firewall.
